@@ -28,3 +28,4 @@ QUEM FEZ?
 Eu, Gabriel Florio, tenho 34 anos sou de São Paulo e estou em transição de carreira, comecei a estudar programação em 06/2024 e nesse momento, acabei de me tornar cadete da 42SP!
 
 Se você leu até aqui, tu é massa! Obrigado!
+contato: gabrielflorio11@gmail.com
