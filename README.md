@@ -8,8 +8,8 @@ Após clicar em jogar, o tabuleiro com 10 cartas viradas será exposto e você d
 ![image](https://github.com/user-attachments/assets/96bae46d-e412-4064-ad6e-f19b3aa63c51)
 
 Exemplo de cartas correspondetes:
-Carta com Foto: Elefante /
-Carta com Informação: "Maior animal terrestre do mundo!"
+Carta com Foto: Guepardo /
+Carta com Informação: "O animal mais rápido da terra!"
 ![image](https://github.com/user-attachments/assets/e5607158-fd91-4d88-a351-cc8f33b42289)
 
 
