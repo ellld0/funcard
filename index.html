@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Card - Learn and Play</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section id="header" class="section section-header">
+            <div id="selection" class="selection-class">
+                <p>FunCard - Encontre as cartas, aprenda e diverta-se!</p>
+            </div>
+            <div id="buttons" class="buttons-class">
+                <button id="restart" onclick="location.reload();" class="button">RECOMEÇAR</button>
+            </div>
+        </section>
+        <section id="home" class="section home">
+            <div id="your-name" class="name-selection">
+                <span class="span-field">DIGITE SEU NOME:</span>
+                <input id="input-name" type="text" class="input-field" placeholder="Escreva seu nome">
+                <button id="start-button" onclick="startGame()" class="button-secundary">JOGAR</button>
+            </div>
+        </section>
+        <section id="board" class="section card-board">
+            <div id="first-floor" class="first">
+                <div id="first-card" onclick="reveal(one)" class="card">
+                </div>
+                <div id="second-card" onclick="reveal(two)" class="card">
+                </div>
+                <div id="third-card" onclick="reveal(three)" class="card">
+                </div>
+                <div id="fourth-card" onclick="reveal(four)" class="card">
+                </div>
+                <div id="fifth-card" onclick="reveal(five)" class="card">
+                </div>
+            </div>
+            <div id="second-floor" class="second">
+                <div id="sixth-card" onclick="reveal(six)" class="card">
+                </div>
+                <div id="seventh-card" onclick="reveal(seven)" class="card">
+                </div>
+                <div id="eighth-card" onclick="reveal(eight)" class="card">
+                </div>
+                <div id="ninth-card" onclick="reveal(nine)" class="card">
+                </div>
+                <div id="tenth-card" onclick="reveal(ten)" class="card">
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        Todos os direitos reservados a elFunEducative ©2024
+    </footer>    
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
