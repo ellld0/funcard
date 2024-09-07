@@ -1,2 +1,30 @@
-# funcard
-Este é um projeto para a imersão dev da Alura com o Google Gemini. FunCard é um jogo educacional para crianças entre 7 e 10 anos. Seu objetivo é levar informações de forma leve e divertida enquanto estimula a memória. 
+# FunCard
+Este é um projeto para a imersão dev da Alura com o Google Gemini. FunCard é um jogo educacional para crianças entre 7 e 10 anos. Seu objetivo é levar informações de forma leve e divertida enquanto estimula a memória.
+
+Na primeira tela você irá colocar seu nome, para personalizar um pouco sua experiência:
+![image](https://github.com/user-attachments/assets/2f40d34b-78f6-42a3-9c35-488efe5a1740)
+
+Após clicar em jogar, o tabuleiro com 10 cartas viradas será exposto e você deve achar a carta correspondente.
+![image](https://github.com/user-attachments/assets/96bae46d-e412-4064-ad6e-f19b3aa63c51)
+
+5 cartas são fotos de animais.
+5 são informações sobre o mesmo.
+![image](https://github.com/user-attachments/assets/00e9825e-5cfa-459b-9822-e29085b2ce3a)
+
+Exemplo de cartas correspondetes:
+Carta com Foto: Elefante
+Carta com Informação: "Maior animal terrestre do mundo!"
+![image](https://github.com/user-attachments/assets/11acfb74-e86f-4b35-bb90-1a8c9b399e86)
+
+------------------------------------------------------------------------------------------------------------
+Detalhes:
+O projeto envolve apenas html, css e javascript básicos. Conforme o conteúdo do curso.
+Os botões, campos, fonte e cores tem seus tamanhos e estilos pensando em ser fácil e atrativo para uma criança de 7 a 10 anos.
+
+O PORQUE DESTE PROJETO?
+Este projeto foi inspirado na minha filha Valentina que tem 7 anos, gosta muito de curiosidades sobre animais e de jogos de computador. Inclusive é fã de Slime Rancher, caso alguem conheça.
+
+QUEM FEZ?
+Eu, Gabriel Florio, tenho 34 anos sou de São Paulo e estou em transição de carreira, comecei a estudar programação em 06/2024 e nesse momento, acabei de me tornar cadete da 42SP!
+
+Se você leu até aqui, tu é massa! Obrigado!
