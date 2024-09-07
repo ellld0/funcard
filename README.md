@@ -14,7 +14,7 @@ Carta com Informação: "O animal mais rápido da terra!"
 
 
 5 cartas são fotos de animais.
-5 são informações sobre o mesmo.
+5 são informações sobre os mesmos.
 ![image](https://github.com/user-attachments/assets/c072be22-11e4-406c-83f2-c832122b01fa)
 
 ------------------------------------------------------------------------------------------------------------
