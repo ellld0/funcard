@@ -1,6 +1,9 @@
 # FunCard
 Este é um projeto para a imersão dev da Alura com o Google Gemini. FunCard é um jogo educacional para crianças entre 7 e 10 anos. Seu objetivo é levar informações de forma leve e divertida enquanto estimula a memória. Acesse o site: https://funcard.vercel.app/
 
+Gostou? Vote lá, eu agradeço muito de coração:
+Se não gostou, pode votar também!
+
 Na primeira tela você irá colocar seu nome, para personalizar um pouco sua experiência:
 ![image](https://github.com/user-attachments/assets/2f40d34b-78f6-42a3-9c35-488efe5a1740)
 
@@ -30,3 +33,5 @@ Eu, Gabriel Florio, tenho 34 anos sou de São Paulo e estou em transição de ca
 
 Se você leu até aqui, tu é massa! Obrigado!
 contato: gabrielflorio11@gmail.com
+Acesse o site: https://funcard.vercel.app/
+Gostou? Vote lá, eu agradeço muito de coração: 
