@@ -7,14 +7,15 @@ Na primeira tela você irá colocar seu nome, para personalizar um pouco sua exp
 Após clicar em jogar, o tabuleiro com 10 cartas viradas será exposto e você deve achar a carta correspondente.
 ![image](https://github.com/user-attachments/assets/96bae46d-e412-4064-ad6e-f19b3aa63c51)
 
+Exemplo de cartas correspondetes:
+Carta com Foto: Elefante /
+Carta com Informação: "Maior animal terrestre do mundo!"
+![image](https://github.com/user-attachments/assets/e5607158-fd91-4d88-a351-cc8f33b42289)
+
+
 5 cartas são fotos de animais.
 5 são informações sobre o mesmo.
-![image](https://github.com/user-attachments/assets/00e9825e-5cfa-459b-9822-e29085b2ce3a)
-
-Exemplo de cartas correspondetes:
-Carta com Foto: Elefante
-Carta com Informação: "Maior animal terrestre do mundo!"
-![image](https://github.com/user-attachments/assets/11acfb74-e86f-4b35-bb90-1a8c9b399e86)
+![image](https://github.com/user-attachments/assets/c072be22-11e4-406c-83f2-c832122b01fa)
 
 ------------------------------------------------------------------------------------------------------------
 Detalhes:
