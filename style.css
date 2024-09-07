@@ -142,7 +142,7 @@ body {
 /*customização do rodapé*/
 footer {
     width: 100vw;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     height: 1.5rem;
     text-align: center;
